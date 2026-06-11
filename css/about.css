@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color:blue;
+    width:100vw;
+    height:10vh;
+    display:flex;
+    align-items: center;
+    padding:20px;
+    gap:24px;
+    font-weight:600;
+    position:absolute;
+    top:0%;
+    color:white;
+}
+
+a:hover {
+    text-decoration:underline;
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-style:wavy
+}
+
+body {
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+    width:100vw;
+    height:100vh;
+    background-color:black;
+    overflow:auto;
+    color:white;
+}
+
+.container {
+    width:80vw;
+    margin-top:15vh;
+}
+
+.container span{
+    color:black;
+    background-color:yellow;
+}
+.container p{
+    margin-bottom: 3vh;
+}
