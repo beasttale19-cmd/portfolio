@@ -16,5 +16,7 @@ I dont used ai for anything. As it is also not hard to make... (BTW i didnt used
 
 # Pages
 Home Page - Contains My social links, Language I know, and other info.
+
 Projects - Contains every projects i had made so far.
+
 About - Contains more about me in paragraphs :).
